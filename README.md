@@ -16,7 +16,7 @@ When it comes to creating APIs, GraphQL has some benefits over REST:
 
 ## Setting up
 
-Use the npm to install graphql-yoga and [babel](https://babeljs.io/) transcompiler.
+Use npm to install graphql-yoga and [babel](https://babeljs.io/) transcompiler.
 
 ```npm
 npm install graphql-yoga babel-cli babel-preset-env
