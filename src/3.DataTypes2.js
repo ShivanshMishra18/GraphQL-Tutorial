@@ -1,7 +1,7 @@
 import { GraphQLServer } from 'graphql-yoga'
 
 // Custom types - User defined (complex) data types
-//      Easy can be easily noted that primitive types are 
+//      It can be easily noted that primitive types are 
 //      often not useful in real world applications
 
 

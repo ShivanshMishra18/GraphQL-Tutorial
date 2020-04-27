@@ -4,7 +4,7 @@ import { GraphQLServer } from 'graphql-yoga'
 //      Resolvers functions have 4 parameters passed to them.
 //      1.parent 2.args 3.ctx(i.e.context) 4.info
 //      The ones which we want to use are available in the args
-//      parameter as json objects. I will describe the others later.
+//      parameter as json objects. Others will be discussed later.
 
 // This example is continued from previous part
 
@@ -53,7 +53,7 @@ const resolvers = {
         doctor() {
             return {
                 id: '173fks3',
-                name: 'AB Nath',
+                name: 'AB King',
                 specialization: 'Neurologist'
             }
         },

@@ -36,8 +36,9 @@ GServer.start(() => {
 })
 
 
-/*  sample query -- note that name is optional
+/*  sample query
 query {
-  welcome(id: "abd145od")
+  getArray,
+  getSumfromArray(array: [4.2 , 9 , 9])
 }
 */
